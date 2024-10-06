@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HudPlacementNoNos.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MakingChangesWillDropTheOrb.cs" Line="17" Column="30" />
+      <File FileName="Assets\Scripts\AdaptiveHUD.cs" Line="15" Column="22" />
+      <File FileName="Assets\Scripts\Level.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\Cage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ceature_Frog.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CirclePow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Creature_Bird.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Creature_Rabbit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrownFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Cursor_Orbit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DissonancerBoss.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUD_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUD_Dropdown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HudButtonForORbChangeSprite.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SuperMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerHitbox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCreatureController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Parallax.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OrbRespawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MusicOrbFloat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelClearArrow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HudPlacementNoNos.cs" Line="7" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
