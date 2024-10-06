@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 153
+  controlID: 87
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 154
+  controlID: 88
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 155
+  controlID: 89
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 217
     height: 951
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -239,7 +239,7 @@ MonoBehaviour:
   - {fileID: 20}
   - {fileID: 21}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 4
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: b230baff3e31baffa632baff1836baffe036baff4a38baff3ed1c0ff44d1c0ff48d1c0fff87dc1ff486fc4ff0870c4ff7471c4ff1041c8ffb0b2c8ff4ae4c8ff003bd5ff8047d5ffea22d6ffd222d7fffe94daff3ed4e3ff44d4e3ff46d4e3ff242de7ffe846f3ffea46f3ffa80af4ff2a0bf4ffa20bf4ffdc0bf4ff1e0cf4ffc80cf4ff02aff9ff94b0f9ff98b0f9ff4e6cfaff0c87fbff0e87fbff6a2afcff702afcff122bfcff7cdbfcff7edbfcff7694feff8294feff9cfbffff00000000223e0000443f0000745000000c530000fc540000c059000018630000386c0000f46f0000fc740000547600002c7b00005e7b0000407d000030840000268c0000928d0000a28f00001c97000020980000669d0000fe16e900
+    m_ExpandedIDs: 266decffb26decff186fecffa6e3efffaae4effface4efff22c3f0ffacc3f0ff12c5f0ffb43af4ff463bf4ff2a4dfcff984dfcff2e4efcff304efcffe840feff7c41feff8041feff661cfffffc1cffff001dffffa2fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -430,9 +430,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.8211814, y: -0.99047464, z: -8.34375}
+    m_Target: {x: 12.661406, y: 9.987894, z: -8.779558}
     speed: 2
-    m_Value: {x: 1.8211814, y: -0.99047464, z: -8.34375}
+    m_Value: {x: 12.661406, y: 9.987894, z: -8.779558}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -460,9 +460,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.97214
+    m_Target: 55.65969
     speed: 2
-    m_Value: 11.97214
+    m_Value: 55.65969
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -778,24 +778,24 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\100th_Coin\Documents\LudumDare56
   m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 70}
-    m_SelectedIDs: 50280000
-    m_LastClickedID: 10320
-    m_ExpandedIDs: 00000000d0270000fe27000092280000ae290000002a0000f0877b0000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 54}
+    m_SelectedIDs: 96280000
+    m_LastClickedID: 10390
+    m_ExpandedIDs: 00000000e62700002c280000ec2800004c2a0000a22a0000d22b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Frog
-      m_OriginalName: Frog
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10562
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -809,7 +809,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d0270000fe27000092280000ae290000002a0000
+    m_ExpandedIDs: 00000000e62700002c280000ec2800004c2a0000a22a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -912,10 +912,10 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\100th_Coin\Documents\LudumDare56
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 70}
-    m_SelectedIDs: 5cbb7a00
-    m_LastClickedID: 8043356
-    m_ExpandedIDs: 00000000d0270000fe27000092280000ae290000002a0000f0877b0000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 54}
+    m_SelectedIDs: 142a0000
+    m_LastClickedID: 10772
+    m_ExpandedIDs: 00000000e62700002c280000ec2800004c2a0000a22a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -943,7 +943,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d0270000fe27000092280000ae290000002a0000
+    m_ExpandedIDs: 00000000e62700002c280000ec2800004c2a0000a22a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -968,8 +968,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: d068c4ff
-    m_LastClickedInstanceID: -3905328
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 802d03009c2d0300985ba4ff487aaaff422600007478000064260000285e0000b2840000c22300001ad1fcffd64501008c240000122500008e240000a829000094240000922400000e251600b4320000d4300000dc611100885bac00462a00003c30000088310000222b00009c3e8000ee370000acac3c00e0ac3c00000000000ed00100762a0000
     m_RenameOverlay:
@@ -1049,7 +1049,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d0270000
     m_LastClickedID: 10192
-    m_ExpandedIDs: 00000000d0270000fe27000092280000ae290000002a000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000e62700002c280000ec2800004c2a0000a22a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1077,7 +1077,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d0270000fe27000092280000ae290000002a0000
+    m_ExpandedIDs: 00000000e62700002c280000ec2800004c2a0000a22a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
