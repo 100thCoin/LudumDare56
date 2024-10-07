@@ -21,9 +21,7 @@ public class QuitToTitleButton : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if (Super.Dataholder.LockTitle) {
-			return;
-		}
+
 		if (hoverGrace > 0) {
 			SR.sprite = Hover;
 			if (Input.GetKeyDown (KeyCode.Mouse0)) {

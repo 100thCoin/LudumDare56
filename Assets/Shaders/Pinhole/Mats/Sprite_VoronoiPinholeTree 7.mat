@@ -49,7 +49,7 @@ Material:
     - _CellSize: 0.8
     - _LeafSwayMagnitude: 0.5
     - _MaxIter: 30
-    - _NoiseXOffset: 399.7211
+    - _NoiseXOffset: 398.49997
     - _PerlinCut: 0.57
     - _PerlinMult: 3
     - _PerlinScale: 0.01

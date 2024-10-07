@@ -136,6 +136,7 @@ f581c7517fbac89e9aabd042e64a397b Assembly-CSharp.dll:.Parallax
 776d59886fb7c57bf69da17ed969b2ac Assembly-CSharp.dll:.TitleButtons
 0b453ed3e1ac066157c77b3a407e3e54 Assembly-CSharp.dll:.AdaptiveHUD
 7d8424582792529b3728480514257b15 Assembly-CSharp.dll:.DissonancerBoss
+7b05471eba6ae7e57ff18b58e3dde1f3 Assembly-CSharp.dll:.GifMaker
 0da7ed18f27518b07f6aefd68d65c88a Assembly-CSharp.dll:.PlayerCreatureController
 fddefc30e1472ce1283c79bb4abea35f Assembly-CSharp.dll:.PlayerMovement
 4a681a9c3db51288386387dde5d7421b Assembly-CSharp.dll:.DataHolder
