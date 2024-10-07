@@ -45,7 +45,10 @@ public class TitleMan : MonoBehaviour {
 			if (PlayingTimer > 1f) {
 
 				Super.Dataholder.StartGame ();
-				Destroy (TitleMain);
+				TitleMain.SetActive (false);
+				PlayingTimer = 0;
+				Playing = false;
+				RollingTransition.color = new Vector4 (0, 0, 0, 0);
 			}
 
 		}
